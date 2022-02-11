@@ -1,0 +1,19 @@
+============================
+operator: +, -, *, /, , ^
+============================
+Operand >> 5.000000 
+Operator >> * 
+Operand >> 3.000000 
+Result >> 15.000000 
+Operator >> - 
+Operand >> 10.000000 
+Result >> 5.000000 
+Operator >> + 
+Operand >> 23.299999 
+Result >> 28.299999 
+Operator >> % 
+Operand >> 2.000000 
+Result >> 0.299999 
+Operator >> + 
+Operand >> 2.000000 
+Result >> 2.299999 
